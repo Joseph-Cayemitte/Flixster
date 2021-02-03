@@ -19,7 +19,7 @@ I was having trouble getting the movie poster, title, and overview attributes li
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-<img src="FlixsterDemo" width=250><br>
+<img src="FlixsterDemo.gif" width=250><br>
 
 
 ### Open-source libraries used
